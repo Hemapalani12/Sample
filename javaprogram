@@ -1,5 +1,6 @@
 // Java Program to find the largest element in 
 // array using iterative approach
+//method to find and print the largest element of a Java array is to iterate over each element of the array and compare each element with the largest value.
 
 class Number {
   
