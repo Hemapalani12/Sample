@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 7049-FE5D
+
+ Directory of C:\Users\hemas\OneDrive\Desktop\practicefile
+
+08-10-2025  11:22    <DIR>          .
+08-10-2025  11:21    <DIR>          ..
+08-10-2025  11:22                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  429,395,595,264 bytes free
